@@ -67,3 +67,120 @@
 - `Makefile`
 
 > ⚠️ Se alguma função acima não estiver correta (nome diferente / não implementada), me avisa que corrijo imediatamente.
+
+ENGLISH VERSION:
+
+libft
+
+Repository for the libft project — a custom implementation of common C standard library functions, completed as part of the 42 curriculum.
+Author: Pedro Henrique Dinis Lellis — GitHub: @pedrolellis88
+
+Description
+
+libft is a small C library that reimplements a selection of standard C functions (memory operations, string handling, character checks, basic I/O and linked-list helpers). The goal of the project is to practice manual memory management, pointer handling, writing clean C, and following 42 coding rules.
+
+Functions implemented
+
+Memory
+
+ft_memcpy
+
+ft_memmove
+
+ft_memset
+
+ft_memchr
+
+ft_memcmp
+
+ft_calloc
+
+ft_bzero
+
+Strings
+
+ft_strlen
+
+ft_strlcpy
+
+ft_strlcat
+
+ft_strdup
+
+ft_strchr
+
+ft_strrchr
+
+ft_strncmp
+
+ft_strnstr
+
+ft_strjoin
+
+ft_strtrim
+
+ft_substr
+
+ft_split
+
+ft_striteri
+
+ft_strmapi
+
+ft_itoa
+
+Character checks & conversions
+
+ft_isalpha
+
+ft_isdigit
+
+ft_isalnum
+
+ft_isascii
+
+ft_isprint
+
+ft_tolower
+
+ft_toupper
+
+ft_atoi
+
+File-descriptor I/O
+
+ft_putchar_fd
+
+ft_putstr_fd
+
+ft_putendl_fd
+
+ft_putnbr_fd
+
+Linked list (bonus)
+
+ft_lstnew
+
+ft_lstadd_front
+
+ft_lstadd_back
+
+ft_lstsize
+
+ft_lstlast
+
+ft_lstdelone
+
+ft_lstclear
+
+ft_lstiter
+
+ft_lstmap
+
+Auxiliary files
+
+includes/libft.h
+
+Makefile
+
+⚠️ I listed the functions that appear in your repo screenshot. If you implemented additional functions or some names differ, tell me and I’ll update this README.
