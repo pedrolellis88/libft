@@ -1,7 +1,7 @@
 # libft
 
 > Repositório do projeto **libft** — implementação das funções básicas da libc exigidas pelo projeto 42.  
-> Autor: **Pedro Henrique Dinis Lellis** — GitHub: `@pedrolellis88`
+> Autor: **Pedro Henrique Dinis Lellis** -login  : **pdiniz-l** — GitHub: `@pedrolellis88`
 
 ## Descrição
 `libft` é uma biblioteca em C que reimplementa várias funções padrão de manipulação de memória, strings, caracteres, e operações auxiliares. O objetivo é aprender alocação dinâmica, manipulação de strings, linked lists e boas práticas de C conforme as normas do 42.
