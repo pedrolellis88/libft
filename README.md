@@ -7,7 +7,7 @@
 `libft` é uma biblioteca em C que reimplementa várias funções padrão de manipulação de memória, strings, caracteres, e operações auxiliares. O objetivo é aprender alocação dinâmica, manipulação de strings, linked lists e boas práticas de C conforme as normas do 42.
 
 ## Funções implementadas
-> Lista baseada nos arquivos do repositório (conforme sua screenshot).
+> Lista baseada nos arquivos do repositório:
 
 **Memória**
 - `ft_memcpy`
